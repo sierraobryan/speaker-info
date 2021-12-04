@@ -1,8 +1,8 @@
 ## Sierra OBryan Speaker Information 
 
-**Name**: Sierra OBryan 
-**Pronouns**: she / her 
-**Tagline**: Android @ Atomic Robot 
+**Name**: Sierra OBryan    
+**Pronouns**: she / her    
+**Tagline**: Android @ Atomic Robot     
 
 **Bio** 
 
