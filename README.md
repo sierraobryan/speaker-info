@@ -2,7 +2,7 @@
 
 **Name**: Sierra OBryan    
 **Pronouns**: she / her    
-**Tagline**: Android @ Atomic Robot     
+**Tagline**: Android @ Atomic Robot | Android GDE     
 
 **Bio** 
 
